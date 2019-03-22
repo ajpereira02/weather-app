@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "weather-app"
   },
   "browserslist": [
     ">0.2%",
